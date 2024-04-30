@@ -3,3 +3,5 @@
 mysql/*
 ^zabbix-server/.gitkeep
 zabbix-server/*
+^log/.gitkeep
+log/*
