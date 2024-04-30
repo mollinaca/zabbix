@@ -1,0 +1,5 @@
+.env
+^mysql/.gitkeep
+mysql/*
+^zabbix-server/.gitkeep
+zabbix-server/*
